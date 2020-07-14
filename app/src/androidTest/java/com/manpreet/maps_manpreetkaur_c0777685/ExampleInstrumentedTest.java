@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.manpreet.maps_mapreetkaur_c0771712", appContext.getPackageName());
+        assertEquals("com.manpreet.maps_mapreetkaur_c0777685", appContext.getPackageName());
     }
 }
